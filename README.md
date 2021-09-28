@@ -12,5 +12,5 @@ This project involved scraping data from a website to create a dataframe showcas
 
 Tools Used for this project:
 * **Python libriaries used:** Pandas, Beautifulsoup, Selenium
-* **SQ**L
+* **SQL**
 * **Tableau**
