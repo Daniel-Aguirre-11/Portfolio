@@ -1,4 +1,4 @@
-# Projects
+# Portfolio
 
 ## Tokyo Olympics 2020
 
