@@ -1,4 +1,6 @@
-# Portfolio
+## Daniel Aguirre
+
+An Aspiring Data Analyst
 
 ## Tokyo Olympics 2020
 
@@ -6,7 +8,7 @@ This project involved scraping data from a website to create a dataframe showcas
 
 <a href="https://github.com/Daniel-Aguirre-11/Portfolio/blob/main/Scraping%20olympics%20data.ipynb">Jupyter Notebook</a>
 
-<a href="https://public.tableau.com/views/TokyoOlympics2020_16320957724210/TokyoOlypmics?:language=en-US&:display_count=n&:origin=viz_share_link">Tableau Vizualization</a>
+<a href="https://public.tableau.com/views/TokyoOlympics2020_16320957724210/TokyoOlypmics?:language=en-US&:display_count=n&:origin=viz_share_link">Tableau Visualization</a>
 
 Tools Used for this project:
 * **Python libriaries used:** Pandas, Beautifulsoup, Selenium
