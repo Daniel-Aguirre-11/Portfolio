@@ -1,6 +1,6 @@
 ## Daniel Aguirre
 
-* *An Aspiring Data Analyst
+*An Aspiring Data Analyst*
 
 ## Tokyo Olympics 2020
 
