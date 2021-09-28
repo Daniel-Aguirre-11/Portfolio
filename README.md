@@ -9,9 +9,6 @@ This project involved scraping data from a website to create a dataframe showcas
 <a href="https://public.tableau.com/views/TokyoOlympics2020_16320957724210/TokyoOlypmics?:language=en-US&:display_count=n&:origin=viz_share_link">Tableau Vizualization</a>
 
 Tools Used for this project:
-Python</n>
-  -pandas
-  -beautifulsoup
-  -selenium
-SQL
-Tableau
+* **Python libriaries used:** pandas, beautifulsoup, selenium
+* **SQL
+* **Tableau
