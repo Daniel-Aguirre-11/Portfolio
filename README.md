@@ -8,7 +8,7 @@ This project involved scraping data from a website to create a dataframe showcas
 
 [Jupuyter Notebook](https://github.com/Daniel-Aguirre-11/Portfolio/blob/main/Scraping%20olympics%20data.ipynb)
 
-<a href="https://public.tableau.com/views/TokyoOlympics2020_16320957724210/TokyoOlypmics?:language=en-US&:display_count=n&:origin=viz_share_link">Tableau Visualization</a>
+[Tableau Visualization](https://public.tableau.com/views/TokyoOlympics2020_16320957724210/TokyoOlypmics?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Tools Used for this project:
 * **Python libriaries used:** Pandas, Beautifulsoup, Selenium
