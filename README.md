@@ -26,3 +26,6 @@ Tools Used for this project:
 * **Python libriaries used:** Pandas, Beautifulsoup, Selenium
 * **SQL:** SQL Server Management Studio
 * **Tableau**
+
+Sources:
+* [www.olympics.com](https://olympics.com/)
