@@ -1,3 +1,5 @@
+<link rel="stylesheet" type = "text/css" href="style.css">
+
 ## Daniel Aguirre
 
 *An Aspiring Data Analyst*
