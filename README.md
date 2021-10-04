@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script></script>
-</head>
-<body>
 ## Daniel Aguirre
 
 *An Aspiring Data Analyst*
@@ -25,4 +17,3 @@ Tools Used for this project:
 * **Python libriaries used:** Pandas, Beautifulsoup, Selenium
 * **SQL**
 * **Tableau**
-</body>
