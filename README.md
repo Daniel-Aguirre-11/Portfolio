@@ -24,5 +24,5 @@ I utilized Jupyter Notebook to scrape the olympics website with BeautifulSoup fo
 
 Tools Used for this project:
 * **Python libriaries used:** Pandas, Beautifulsoup, Selenium
-* **SQL**
+* **SQL:** SQL Server Management Studio
 * **Tableau**
