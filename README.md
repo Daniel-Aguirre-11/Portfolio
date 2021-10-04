@@ -1,3 +1,9 @@
+<script>
+  img {
+    height: 300px
+  }
+</script>
+
 ## Daniel Aguirre
 
 *An Aspiring Data Analyst*
