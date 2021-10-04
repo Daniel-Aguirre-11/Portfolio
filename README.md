@@ -9,7 +9,7 @@
 **This project involved scraping data from a website to create a dataframe showcasing athletes that perfomed in the olympics and medals that were won. Then taking the dataframe and creating a visualization.**
 
 [Jupyter Notebook](https://github.com/Daniel-Aguirre-11/Olympics-Project/blob/main/Scraping%20olympics%20data.ipynb)
-<img href="https://github.com/Daniel-Aguirre-11/Portfolio/blob/main/Jupyter_Notebook_Thumbnail.png?raw=true"/>
+<img href="https://github.com/Daniel-Aguirre-11/Portfolio/blob/main/Jupyter_Notebook_Thumbnail.png"/>
 
 I utilized Jupyter Notebook to scrape the olympics website with BeautifulSoup for data on each athlete that participated in olympics. I added titles and comments to certain blocks of code to help understand what they do. 
 
