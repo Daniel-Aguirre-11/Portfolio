@@ -18,7 +18,7 @@ I usedJupyter Notebook with Python to scrape the olympics website with Beautiful
 
 I then used SQL to answer some questions I had about the data. How many medals did each team win? How many male vs female athletes? How old/young where the participants? etc. I then started writing some qeuries to anser my questions. I landed on the bigest question I came up with, which was "How many medals where won by each Team?". This question is what I decided to visualize in Tableau.
 
-### Tableau Visualizatio
+### Tableau Visualization
 
 [![img](https://github.com/Daniel-Aguirre-11/Portfolio/blob/main/Tableau_thumbnail.png?raw=true)](https://public.tableau.com/views/TokyoOlympics2020_16320957724210/TokyoOlypmics?:language=en-US&:display_count=n&:origin=viz_share_link)
 
